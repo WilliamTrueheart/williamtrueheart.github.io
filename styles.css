@@ -62,7 +62,7 @@
 
 #landing {
     width:100vw;
-    height:400px;
+    height:450px;
 
 
     display: flex;
@@ -375,7 +375,7 @@
 }
 
 #compAboutMe {
-    background: linear-gradient(180deg, #667d9c 0%, #3c5263 100%);
+    background: linear-gradient(180deg, #7c98bb 0%, #3c5263 100%);
 
     width:100vw;
     height:400px;
@@ -387,7 +387,20 @@
     gap:50px;
     padding-top: 15px;
     padding-bottom: 15px;
+
+    
 }
+
+.reveal{
+    position: relative;
+    transform: translateY(70px);
+    opacity: 0;
+    transition: .5s all ease;
+  }
+  .reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+  }
 
 #toolsContainer {
     background-color: white;
