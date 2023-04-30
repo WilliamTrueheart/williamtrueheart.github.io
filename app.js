@@ -20,14 +20,14 @@ function updateMainImage(num) {
         navItem4.style.opacity = '50%';
     }
     if (num === 3) {
-        mainImage.style.backgroundImage = "url('photos/trifold.jpg')"
+        mainImage.style.backgroundImage = "url('photos/Trifold.jpg')"
         navItem1.style.opacity = '50%';
         navItem2.style.opacity = '50%';
         navItem3.style.opacity = '100%';
         navItem4.style.opacity = '50%';
     }
     if (num === 4) {
-        mainImage.style.backgroundImage = "url('photos/stationary.jpg')";
+        mainImage.style.backgroundImage = "url('photos/Stationary.jpg')";
         navItem1.style.opacity = '50%';
         navItem2.style.opacity = '50%';
         navItem3.style.opacity = '50%';
@@ -43,28 +43,28 @@ function updateMainImage2(num) {
     let navItem8 = document.getElementById('navItem8');
 
     if (num === 1) {
-        mainImage2.style.backgroundImage = "url('photos/social3.jpg')"
+        mainImage2.style.backgroundImage = "url('photos/Social3.jpg')"
         navItem5.style.opacity = '100%';
         navItem6.style.opacity = '50%';
         navItem7.style.opacity = '50%';
         navItem8.style.opacity = '50%';
     }
     if (num === 2) {
-        mainImage2.style.backgroundImage = "url('photos/social_Prod1.jpg')"
+        mainImage2.style.backgroundImage = "url('photos/Social_Prod1.jpg')"
         navItem5.style.opacity = '50%';
         navItem6.style.opacity = '100%';
         navItem7.style.opacity = '50%';
         navItem8.style.opacity = '50%';
     }
     if (num === 3) {
-        mainImage2.style.backgroundImage = "url('photos/social_Prod2.jpg')"
+        mainImage2.style.backgroundImage = "url('photos/Social_Prod2.jpg')"
         navItem5.style.opacity = '50%';
         navItem6.style.opacity = '50%';
         navItem7.style.opacity = '100%';
         navItem8.style.opacity = '50%';
     }
     if (num === 4) {
-        mainImage2.style.backgroundImage = "url('photos/billboard.jpg')";
+        mainImage2.style.backgroundImage = "url('photos/Billboard.jpg')";
         navItem5.style.opacity = '50%';
         navItem6.style.opacity = '50%';
         navItem7.style.opacity = '50%';
