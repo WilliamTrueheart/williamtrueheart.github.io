@@ -228,6 +228,7 @@
     
     justify-content: center;
 
+    padding-top: 40px;
     gap:10px;
 }
 .sectionHeader2 {
@@ -242,7 +243,7 @@
     justify-content: center;
 
     gap:10px;
-    padding-top:40px;
+    padding-top:110px;
 }
 
 #liveWork {
@@ -318,14 +319,14 @@
     width:500px;
     margin-top: 26px;
     font-size: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
 }
 .thirdHeader2 {
     width:500px;
     height: max-content;
     margin-top:6px;
     font-size: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 90px;
 }
 
 .subHeader0 {
