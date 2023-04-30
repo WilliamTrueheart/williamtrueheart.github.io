@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+}
+
+#COMP-1 {
+    width:100vw;
+    height:400px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#COMP-2 {
+    background-color: rgb(255, 255, 255);
+    width:100vw;
+    height: max-content;
+
+
+    padding-top:30px;
+    padding-bottom: 30px;
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+#COMP-3 {
+    background-color: rgb(255, 255, 255);
+    width:100vw;
+    height: max-content;
+
+
+    padding-top:30px;
+    padding-bottom: 30px;
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+#COMP-4 {
+    background-color: rgb(255, 255, 255);
+    width:100vw;
+    height: max-content;
+
+
+    padding-top:30px;
+    padding-bottom: 30px;
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+#mainImage-Remedy {
+    background-color:white;
+    width: 880px;
+    height: 480px;
+}
+
+#mainImage-Remedy2 {
+    background-color:white;
+    width: 880px;
+    height: 480px;
+}
+
+#nav1_container {
+    width: 884px;
+    height: 120px;
+
+    display: flex;
+    flex-direction: row;
+    gap:2px;
+}
+
+#nav2_container {
+    width: 884px;
+    height: 120px;
+
+    display: flex;
+    flex-direction: row;
+    gap:2px;
+}
+
+.navItem-Remedy {
+    background-color: rgb(255, 255, 255);
+    width:25%;
+    height:100%;
+    opacity: 50%;
+}
+
+.navItem-Remedy:hover {
+   transform: translateY(-4px);
+}
+
+
+#navItem1 {
+    background-image: url(photos/Logo.jpg);
+    background-size: contain;
+    opacity:100%;
+}
+#navItem2 {
+    background-image: url(photos/product\ mockups.jpg);
+    background-size: contain;
+}
+
+#navItem3 {
+    background-image: url(photos/Trifold.jpg);
+    background-size: contain;
+}
+
+#navItem4 {
+    background-image: url(photos/Stationary.jpg);
+    background-size: contain;
+}
+
+#navItem5 {
+    background-image: url(photos/Social3.jpg);
+    background-size: contain;
+    opacity: 100%;
+}
+
+#navItem6 {
+    background-image: url(photos/Social_Prod1.jpg);
+    background-size: contain;
+}
+
+#navItem7 {
+    background-image: url(photos/Social_Prod2.jpg);
+    background-size: contain;
+}
+
+#navItem8 {
+    background-image: url(photos/Billboard.jpg);
+    background-size: contain;
+}
+
+#mainImage {
+    width:100%;
+    height:100%;
+    background-image: url(photos/Logo.jpg);
+    background-size: cover;
+}
+
+#mainImage2 {
+    width:100%;
+    height:100%;
+    background-image: url(photos/Social3.jpg);
+    background-size: cover;
+}
+
+#mainImage3 {
+    width:100%;
+    height:100%;
+    background-image: url(photos/Web.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
