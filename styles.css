@@ -467,3 +467,22 @@
 .socialcta {
     box-shadow: rgb(175, 175, 175) -3px 3px 3px 0px ;
 }
+
+
+
+#personal {
+    width:100vw;
+    height:max-content;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    padding-top: 100px;
+    padding-bottom: 10px;
+
+    gap:20px;
+    text-align: center;
+
+}
