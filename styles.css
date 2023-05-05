@@ -375,7 +375,10 @@
 }
 
 #compAboutMe {
-    background: linear-gradient(180deg, #7c98bb 0%, #3c5263 100%);
+  
+    background-image: url('photos/mountains.jpg');
+    background-size: cover;
+    background-position: bottom;
 
     width:100vw;
     height:400px;
@@ -485,4 +488,12 @@
     gap:20px;
     text-align: center;
 
+}
+
+.circle {
+    width:50px;
+    height:50px;
+    border-radius: 180;
+
+    background-color: #7c98bb;
 }
