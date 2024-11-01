@@ -57,7 +57,7 @@ function updateMainImage2(num) {
         navItem8.style.opacity = '50%';
     }
     if (num === 3) {
-        mainImage2.style.backgroundImage = "url('photos/Social_Prod2.jpg')"
+        mainImage2.style.backgroundImage = "url('photos/Web.jpg')"
         navItem5.style.opacity = '50%';
         navItem6.style.opacity = '50%';
         navItem7.style.opacity = '100%';
