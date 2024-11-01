@@ -4,6 +4,9 @@
     font-family:monospace;
 }
 
+.toppad {
+    margin-top: 10px;
+}
 
   #mobile {
     position:absolute;
