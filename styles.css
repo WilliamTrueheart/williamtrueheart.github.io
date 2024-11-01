@@ -271,7 +271,7 @@
     padding-top:110px;
 }
 
-#liveWork {
+#liveWork, #livework2 {
     background-color: rgb(37, 37, 37);
     width:100vw;
     height:max-content;
@@ -288,7 +288,7 @@
 
 }
 
-#liveWorkPortfolio {
+#liveWorkPortfolio,#liveWorkPortfolio2 {
   
 
     width:880px;
