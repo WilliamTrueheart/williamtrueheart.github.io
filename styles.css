@@ -509,9 +509,8 @@
 
 
 #personal {
-    width:100vw;
+    width:80vw;
     height:max-content;
-
     display: flex;
     flex-direction: row;
     align-items: center;
