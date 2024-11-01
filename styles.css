@@ -305,6 +305,23 @@
 
 }
 
+#liveWork3 {
+    background-color: rgb(37, 37, 37);
+    width:100vw;
+    height:max-content;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+    flex-direction: column;
+
+    padding-top:30px;
+    padding-bottom: 30px;
+
+}
+
 #liveWorkPortfolio {
   
 
@@ -343,6 +360,24 @@
     
 }
 
+#liveWorkPortfolio3 {
+  
+
+    width:880px;
+    height:max-content;
+    gap:2%;
+
+    display: flex;
+    position: relative;
+
+    align-items: center;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
 .tb10 {
     padding: 10px 0px 10px 0px;
 }
