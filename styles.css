@@ -8,7 +8,11 @@
     margin-top: 20px;
 }
 
- 
+ @media screen and (max-width: 850px) {
+    #desktop {
+      opacity:1;
+    }
+  }
 
 
 
