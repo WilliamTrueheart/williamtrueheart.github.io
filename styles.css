@@ -66,8 +66,7 @@
 #landing {
     width:100vw;
     height:450px;
-
-
+    background-color: #0f4c81;
     display: flex;
     align-items: center;
     justify-content: center;
