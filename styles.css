@@ -26,16 +26,7 @@
   }
 
 @media screen and (max-width: 850px) {
-    #desktop {
-      display: none;
-    }
-    #mobile {
-        display:flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        opacity: 60%;
-    }
+  
   }
 
 
