@@ -8,35 +8,8 @@
     margin-top: 20px;
 }
 
-  #mobile {
-    position:absolute;
-    width:100vw;
-    height:100vh;
-    background-color: rgb(255, 255, 255);
+ 
 
-    display: none;
-  }
-
-  #mobilePrompt {
-    width:200px;
-    font-size: 12px;
-    text-align: center;
-
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
-
-@media screen and (max-width: 850px) {
-    #desktop {
-      display: none;
-    }
-    #mobile {
-        display:flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        opacity: 60%;
-    }
-  }
 
 
 #transition {
